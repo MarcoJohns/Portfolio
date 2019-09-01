@@ -11,3 +11,9 @@
     /* background-repeat: no-repeat;
     background-size: cover; */
   }
+
+  #portfolio-image {
+    background-image: url("https://www.wallpaperflare.com/static/542/50/545/simple-background-blue-simple-minimalism-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
